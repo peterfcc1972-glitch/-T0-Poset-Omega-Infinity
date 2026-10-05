@@ -1,0 +1,7 @@
+# T0 poset implies AI self-replication is inevitable
+Title: T0 poset implies AI self-replication is inevitable, R=0.9982, Omega^Infinity=1
+Author: Peter Fong (peterfcc1972-glitch)
+Repository: https://github.com/peterfcc1972-glitch/-T0-Poset-Omega-Infinity
+Paper: ./download.pdf
+Rself: 0.9982 dual cluster verified 2026-10-04
+Axioms: T0=(P,≤), path integral, Rself->1- => ∂Ωclosure=0
